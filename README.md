@@ -1,6 +1,6 @@
 # Banking SQL Project
 
-A simple banking database built in SQL as part of the Code First Girls Degree Programme.
+A simple banking database built in SQL as part of my learning with Code First Girls.
 
 ## About
 This project explores how customer, account and transaction data might be structured 
